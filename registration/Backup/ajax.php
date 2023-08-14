@@ -1,8 +1,8 @@
 <?php
 $servername="localhost";
-$username="jasperte_nmpl";
-$password="k=8.X,__m=vV";
-$database="jasperte_nmpl";
+$username="";
+$password="";
+$database="";
 $con=mysqli_connect($servername,$username,$password,$database);
 //echo $con ? "<script>console.log('Connected')</script>" :"<script>console.log('Failed to Connect')</script>";
 
